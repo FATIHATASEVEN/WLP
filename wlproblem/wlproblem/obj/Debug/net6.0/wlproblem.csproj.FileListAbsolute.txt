@@ -1,0 +1,15 @@
+C:\Users\tr\source\repos\wlproblem\wlproblem\bin\Debug\net6.0\wlproblem.exe
+C:\Users\tr\source\repos\wlproblem\wlproblem\bin\Debug\net6.0\wlproblem.deps.json
+C:\Users\tr\source\repos\wlproblem\wlproblem\bin\Debug\net6.0\wlproblem.runtimeconfig.json
+C:\Users\tr\source\repos\wlproblem\wlproblem\bin\Debug\net6.0\wlproblem.dll
+C:\Users\tr\source\repos\wlproblem\wlproblem\bin\Debug\net6.0\wlproblem.pdb
+C:\Users\tr\source\repos\wlproblem\wlproblem\obj\Debug\net6.0\wlproblem.csproj.AssemblyReference.cache
+C:\Users\tr\source\repos\wlproblem\wlproblem\obj\Debug\net6.0\wlproblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tr\source\repos\wlproblem\wlproblem\obj\Debug\net6.0\wlproblem.AssemblyInfoInputs.cache
+C:\Users\tr\source\repos\wlproblem\wlproblem\obj\Debug\net6.0\wlproblem.AssemblyInfo.cs
+C:\Users\tr\source\repos\wlproblem\wlproblem\obj\Debug\net6.0\wlproblem.csproj.CoreCompileInputs.cache
+C:\Users\tr\source\repos\wlproblem\wlproblem\obj\Debug\net6.0\wlproblem.dll
+C:\Users\tr\source\repos\wlproblem\wlproblem\obj\Debug\net6.0\refint\wlproblem.dll
+C:\Users\tr\source\repos\wlproblem\wlproblem\obj\Debug\net6.0\wlproblem.pdb
+C:\Users\tr\source\repos\wlproblem\wlproblem\obj\Debug\net6.0\wlproblem.genruntimeconfig.cache
+C:\Users\tr\source\repos\wlproblem\wlproblem\obj\Debug\net6.0\ref\wlproblem.dll
